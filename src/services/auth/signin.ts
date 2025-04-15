@@ -5,7 +5,7 @@
 
 
 import {fetcher} from '../../utils/index'
-import {ApiContext, User} from '../../types/data.a'
+import {ApiContext, User} from '../../types/data'
 
 export type SigninParams = {
     /*
