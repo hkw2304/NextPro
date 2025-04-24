@@ -6,8 +6,8 @@ import space from './space'
 
 export const theme = {
     space,
-    lineHeights,
-    letterSpacings,
     fontSizes,
-    colors
+    letterSpacings,
+    lineHeights,
+    colors,
 } as const // 객체의 속성을 읽기 전용으로 함
